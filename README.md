@@ -3,7 +3,7 @@
 Proyecto de análisis de datos desarrollado en Python para evaluar indicadores de asistencia de personal durante marzo de 2024.
 
 El objetivo es transformar un conjunto de datos operacionales en información útil para apoyar la toma de decisiones mediante limpieza de datos, análisis exploratorio, cálculo de indicadores y visualización de resultados.
-NOTA: Se aleatorizaron los datos personales para poder presentarlo de manera pública, de esta manera no filtrar datos de empresas y/o trabajadores, cualquier parecido con la realidad es pura coincidencia.
+## NOTA: Se aleatorizaron los datos personales para poder presentarlo de manera pública, de esta manera no filtrar datos de empresas y/o trabajadores, cualquier parecido con la realidad es pura coincidencia.
 
 ---
 
