@@ -79,6 +79,16 @@ El análisis permitió identificar:
 - Trabajadores con mayor frecuencia de ausencias.
 - Comparación del comportamiento de conductores respecto del resto del personal.
 
+## Dashboard de resultados
+
+### Ausentismo General
+
+![Ausentismo](images-proyecto-rrll/ausentismo_general.png)
+
+### Comparacion por turnos 4x3 y 7x7
+
+![Turnos](images-proyecto-rrll/ausentismo_turnos.png)
+
 ---
 
 ## Estructura del proyecto
