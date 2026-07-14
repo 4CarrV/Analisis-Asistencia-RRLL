@@ -1,0 +1,73 @@
+Resumen Ejecutivo:
+
+1. ¿Cuál es el % de ausentismo total del mes?
+
+Tras la revision de los datos podemos confirmar que del total de 323 ausentes durante el mes de marzo del año 2024; 
+
+Ausente       167 = 51.7%
+Lic_Medica     78 = 24.1%
+Permiso        59 = 18.3%
+Sin Registro   19 = 5.9%
+Total         323 = 100.0%
+
+2. ¿Hay diferencia de ausentismo entre turno 4x3 y 7x7?
+
+4x3         - Presente             1053 = 83.9%
+            - Ausente               114 = 9.1%
+            - Permiso                38 = 3.0%
+            - Lic_Medica             37 = 2.9%
+            - Sin_Registro           13 = 1.0%
+            Total                1255 = 100%
+
+            
+7x7         - Presente              614 = 84.2%
+            - Ausente                51 = 7.0%
+            - Permiso                20 = 2.7%
+            - Lic_Medica             38 = 5.2%
+            - Sin_Registro            6 = 0.8%
+            Total                 729 = 100%
+
+El ausentimo injustificado es mayor en el turno 4x3, donde tiene 114 registros, representando el 9.1%, a comparacion del turno 7x7 que tiene 51 registros, siendo el 7.0% de los registros.
+El porcentaje de registros de Licencia Medica es mayor en en el turno 7x7, alcanzando un 5.2% de su turno, mientras que el turno 4x3 se queda en un 2.9%.
+El ausentimo injustificado es mayor en el turno 4x3, donde tiene 114 registros, representando el 9.1%, a comparacion del turno 7x7 que tiene 51 registros, siendo el 7.0% de los registros.
+El porcentaje de registros de Licencia Medica es mayor en en el turno 7x7, alcanzando un 5.2% de su turno, mientras que el turno 4x3 se queda en un 2.9%.
+
+
+3. ¿Cuáles son los 5 trabajadores con más ausencias?
+
+El top 5 de los trabajadores con mas ausencias durante el mes de Marzo 2024 serian los siguientes:
+
+ID_Trabajador  Nombre_Completo        
+TRB-092        Gabriel Poblete López      6
+TRB-038        Alfredo Salas Pérez        6
+TRB-040        Gonzalo Herrera Cortés     6
+TRB-008        Sebastián Muñoz Salas      6
+TRB-036        Esteban Cisternas Acuña    5
+
+Nota: "Ausencias" en cada usuario toman en cuenta tanto ausencias injustificadas, licencias medicas, y los permisos. 
+
+
+4. ¿Los conductores tienen un patrón diferente al resto?
+
+Con en analisis podemos confirmar que del total de 43 conductores ausentes durante el mes de marzo del año 2024; 23 fueron sin justificativo, 8 con licencia medica y 5 con permiso.
+
+AUSENTES CONDUCTORES
+
+Ausente         23 = 53.5%
+Lic_Medica       8 = 18.6%
+Sin_Registro     7 = 16.3%
+Permiso          5 = 11.6%
+Total           43 = 100.0%
+
+Recordando que los porcentajes de ausencias en general del personal eran los siguientes
+AUSENTES GENERAL
+
+Ausente       167 = 51.7%
+Lic_Medica     78 = 24.1%
+Permiso        59 = 18.3%
+Sin Registro   19 = 5.9%
+Total         323 = 100.0%
+
+
+De estas tablas podemos encontrar que el porcentaje de Sin registros se incrementa a un 11.6% del total de ausencias del mes. Además vemos que los Ausentes injustificados son más en los conductores, alcanzando un 53.5%.
+Si biene estos valores se encuentran "inflados" ya que el total de datos de Conductores es de solo 43 registros, mientras que en general presentamos 323 registros.
