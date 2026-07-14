@@ -1,0 +1,139 @@
+ID_Trabajador,Nombre_Completo,RUT,Tipo_Turno,Nombre_Turno,Cargo,Es_Conductor,Fecha_Registro,Estado_Asistencia
+TRB-027,Andrés Bravo Reyes,16.034.686-8,4x3,Turno B,Operador de Equipo,Sí,2024-03-15 00:00:00,
+TRB-006,,15.224.730-3,4x3,Turno C,Bodeguero,No,2024-03-29 00:00:00,P
+TRB-086,Esteban Ramos Pizarro,24.588.545-8,,Turno E,Bodeguero,No,2024-03-02 00:00:00,Presente
+TRB-054,Esteban García López,15.152.271-8,4x3,Turno B,Operador de Camión,Sí,2024-03-24 00:00:00,
+TRB-040,Gonzalo Herrera Cortés,,4x3,Turno A,Controlista,No,2024-03-11 00:00:00,Ausente
+TRB-044,Carlos Pizarro Flores,23.267.547-0,4x3,Turno A,Bodeguero,No,22/03/2024,
+TRB-017,Víctor Salas Morales,16.887.903-2,4x3,Turno A,Ayudante de Operaciones,No,2024-03-03 00:00:00,
+TRB-110,Cristian López Contreras,16.148.673-6,,Turno E,Bodeguero,No,2024-03-08 00:00:00,Licencia Médica
+TRB-055,Manuel Díaz López,,4x3,Turno C,Mecánico,No,2024-03-28 00:00:00,Presente
+TRB-046,Pedro Contreras Sandoval,,4x3,Turno B,Operador de Planta,No,2024-03-08 00:00:00,Presente
+TRB-080,Camilo Cisternas Reyes,,7x7,Turno E,Supervisor de Turno,No,2024-03-31 00:00:00,Presente
+TRB-041,Ignacio López Poblete,,4x3,Turno B,Ayudante de Operaciones,No,09-03-2024,Presente
+TRB-037,Cristian García García,,4x3,Turno B,Bodeguero,No,2024-03-28 00:00:00,Presente
+TRB-091,Gonzalo Flores Vargas,,7x7,Turno D,Ayudante de Operaciones,No,2024-03-28 00:00:00,Presente
+TRB-060,Marcelo Aguilar Flores,9.704.528-3,4x3,Turno C,Mecánico,No,2024-03-15 00:00:00,
+TRB-028,Esteban Martínez Martínez,,4x3,Turno A,Operador de Planta,No,2024-03-06 00:00:00,Presente
+TRB-113,Alfredo Aguilar García,22.546.631-9,,Turno E,Operador de Equipo,Sí,2024-03-04 00:00:00,Presente
+TRB-054,Esteban García López,15.152.271-8,,Turno B,Operador de Camión,Sí,18/03/2024,Presente
+TRB-057,Carlos Navarro Reyes,,4x3,Turno C,Controlista,No,2024-03-08 00:00:00,Presente
+TRB-059,Sergio Torres Espinoza,14.831.592-2,4x3,Turno B,Mecánico,No,2024-03-24 00:00:00,
+TRB-101,Esteban Rodríguez Martínez,,7x7,Turno E,Operador de Camión,Sí,2024-03-23 00:00:00,Presente
+TRB-027,Andrés Bravo Reyes,,4x3,Turno B,Operador de Equipo,Sí,2024-03-01 00:00:00,Presente
+TRB-088,,16.361.706-4,7x7,Turno D,Supervisor de Turno,No,2024-03-15 00:00:00,Presente
+TRB-046,Pedro Contreras Sandoval,,4x3,Turno B,Operador de Planta,No,2024-03-01 00:00:00,Presente
+TRB-061,,19.192.300-6,4x3,Turno A,Bodeguero,No,2024-03-20 00:00:00,Presente
+TRB-028,,24.307.133-K,4x3,Turno A,Operador de Planta,No,12-03-2024,Ausente
+TRB-041,Ignacio López Poblete,,4x3,Turno B,Ayudante de Operaciones,No,2024-03-16 00:00:00,permiso
+TRB-055,,16.196.824-2,4x3,Turno C,Mecánico,No,2024-03-23 00:00:00,Presente
+TRB-035,Ignacio Núñez Aguilar,,4x3,Turno A,Controlista,No,2024-03-18 00:00:00,Presente
+TRB-024,Sebastián Cáceres Soto,11.570.554-7,4x3,Turno B,Operador de Equipo,Sí,23/03/2024,
+TRB-025,Marcelo Miranda Ramos,13.128.434-9,,Turno C,Mecánico,No,2024-03-07 00:00:00,PRESENTE
+TRB-065,Eduardo Muñoz Díaz,15.048.998-9,,Turno A,Mecánico,No,05/03/2024,Presente
+TRB-094,,15.179.067-4,7x7,Turno D,Supervisor de Turno,No,2024-03-02 00:00:00,Presente
+TRB-006,,15.224.730-3,4x3,Turno C,Bodeguero,No,2024-03-22 00:00:00,Presente
+TRB-024,Sebastián Cáceres Soto,11.570.554-7,4x3,Turno B,Operador de Equipo,Sí,2024-03-04 00:00:00,
+TRB-111,Sergio Rojas Cisternas,,7x7,Turno D,Mecánico,No,03/03/2024,Presente
+TRB-026,,18.876.872-5,4x3,Turno B,Supervisor de Turno,No,2024-03-31 00:00:00,Presente
+TRB-040,Gonzalo Herrera Cortés,,4x3,Turno A,Controlista,No,2024-03-12 00:00:00,presente
+TRB-103,Daniel Carrasco Espinoza,,7x7,Turno E,Operador de Planta,No,01-03-2024,Presente
+TRB-111,,9.378.051-5,7x7,Turno D,Mecánico,No,2024-03-31 00:00:00,Presente
+TRB-119,,10.872.694-6,7x7,Turno E,Controlista,No,2024-03-16 00:00:00,Licencia Médica
+TRB-025,Marcelo Miranda Ramos,13.128.434-9,,Turno C,Mecánico,No,2024-03-20 00:00:00,Presente
+TRB-033,Héctor Contreras Castro,,4x3,Turno C,Controlista,No,2024-03-05 00:00:00,Presente
+TRB-014,Mario Núñez Navarro,,4x3,Turno A,Ayudante de Operaciones,No,2024-03-11 00:00:00,Presente
+TRB-028,Esteban Martínez Martínez,24.307.133-K,4x3,Turno A,Operador de Planta,No,2024-03-20 00:00:00,
+TRB-059,,14.831.592-2,4x3,Turno B,Mecánico,No,2024-03-11 00:00:00,presente
+TRB-084,,12.944.378-2,7x7,Turno D,Operador de Planta,No,2024-03-22 00:00:00,Licencia Médica
+TRB-113,Alfredo Aguilar García,22.546.631-9,7x7,Turno E,Operador de Equipo,Sí,20/03/2024,
+TRB-025,,13.128.434-9,4x3,Turno C,Mecánico,No,2024-03-28 00:00:00,Presente
+TRB-107,Andrés Cisternas Torres,23.603.951-K,,Turno D,Ayudante de Operaciones,No,17-03-2024,Presente
+TRB-092,Gabriel Poblete López,17.587.445-3,7x7,Turno E,Operador de Planta,No,2024-03-11 00:00:00,
+TRB-036,Esteban Cisternas Acuña,16.153.634-2,,Turno C,Supervisor de Turno,No,2024-03-10 00:00:00,Licencia Médica
+TRB-006,,,4x3,Turno C,Bodeguero,No,2024-03-10 00:00:00,Presente
+TRB-027,Andrés Bravo Reyes,,4x3,Turno B,Operador de Equipo,Sí,2024-03-17 00:00:00,Presente
+TRB-107,Andrés Cisternas Torres,23.603.951-K,,Turno D,Ayudante de Operaciones,No,2024-03-07 00:00:00,A
+TRB-004,Tomás Ramos Sandoval,,4x3,Turno C,Operador de Equipo,Sí,02/03/2024,Presente
+TRB-050,Ignacio Contreras Miranda,,4x3,Turno A,Operador de Camión,Sí,2024-03-01 00:00:00,Presente
+TRB-035,Ignacio Núñez Aguilar,,4x3,Turno A,Controlista,No,2024-03-27 00:00:00,Presente
+TRB-023,Andrés Vega Cortés,,4x3,Turno C,Electricista,No,2024-03-21 00:00:00,
+TRB-013,Rodrigo Miranda Silva,,4x3,Turno C,Mecánico,No,2024-03-21 00:00:00,Presente
+TRB-090,,22.962.377-K,7x7,Turno E,Operador de Camión,Sí,2024-03-09 00:00:00,Presente
+TRB-102,Miguel Pérez Flores,20.720.614-8,,Turno D,Ayudante de Operaciones,No,2024-03-15 00:00:00,Presente
+TRB-062,Roberto Poblete Navarro,,4x3,Turno A,Mecánico,No,2024-03-29 00:00:00,Presente
+TRB-119,Carlos Tapia Ramos,10.872.694-6,,Turno E,Controlista,No,2024-03-13 00:00:00,Presente
+TRB-114,Jorge Cortés Soto,,7x7,Turno E,Ayudante de Operaciones,No,2024-03-30 00:00:00,Presente
+TRB-096,,8.655.383-K,7x7,Turno E,Operador de Equipo,Sí,2024-03-04 00:00:00,Presente
+TRB-055,Manuel Díaz López,,4x3,Turno C,Mecánico,No,2024-03-07 00:00:00,Presente
+TRB-004,Tomás Ramos Sandoval,,4x3,Turno C,Operador de Equipo,Sí,2024-03-22 00:00:00,Presente
+TRB-068,,16.952.514-5,4x3,Turno A,Supervisor de Turno,No,2024-03-20 00:00:00,Presente
+TRB-111,,9.378.051-5,7x7,Turno D,Mecánico,No,28-03-2024,Presente
+TRB-020,Andrés Morales Silva,22.165.337-8,,Turno A,Operador de Equipo,Sí,2024-03-30 00:00:00,Presente
+TRB-025,Marcelo Miranda Ramos,,4x3,Turno C,Mecánico,No,06-03-2024,Presente
+TRB-093,Francisco Carrasco Sandoval,10.703.737-3,,Turno D,Mecánico,No,2024-03-07 00:00:00,Presente 
+TRB-057,Carlos Navarro Reyes,,4x3,Turno C,Controlista,No,2024-03-22 00:00:00,Presente
+TRB-024,,11.570.554-7,4x3,Turno B,Operador de Equipo,Sí,2024-03-17 00:00:00,Presente
+TRB-016,Rodrigo Torres Cisternas,,4x3,Turno B,Mecánico,No,2024-03-05 00:00:00,Presente 
+TRB-040,Gonzalo Herrera Cortés,,4x3,Turno A,Controlista,No,06-03-2024,P
+TRB-099,Fernando Aguilar Rodríguez,,7x7,Turno D,Mecánico,No,2024-03-16 00:00:00,Presente
+TRB-050,Ignacio Contreras Miranda,,4x3,Turno A,Operador de Camión,Sí,2024-03-15 00:00:00,Licencia Médica
+TRB-107,Andrés Cisternas Torres,,7x7,Turno D,Ayudante de Operaciones,No,2024-03-22 00:00:00,Permiso
+TRB-012,,15.029.889-K,4x3,Turno C,Electricista,No,2024-03-06 00:00:00,Presente
+TRB-077,Rodrigo Espinoza Valenzuela,,,Turno E,Bodeguero,No,2024-03-27 00:00:00,Presente
+TRB-060,Marcelo Aguilar Flores,9.704.528-3,,Turno C,Mecánico,No,2024-03-07 00:00:00,Presente
+TRB-014,,15.369.062-6,4x3,Turno A,Ayudante de Operaciones,No,2024-03-26 00:00:00,Presente
+TRB-043,Claudio Torres Fuentes,,4x3,Turno B,Ayudante de Operaciones,No,2024-03-22 00:00:00,Presente
+TRB-071,Víctor Espinoza Núñez,,4x3,Turno A,Operador de Planta,No,2024-03-09 00:00:00,Presente
+TRB-021,Mario Pizarro Miranda,,4x3,Turno C,Técnico de Mantenimiento,No,18-03-2024,Permiso
+TRB-080,Camilo Cisternas Reyes,,7x7,Turno E,Supervisor de Turno,No,2024-03-12 00:00:00,Permiso
+TRB-031,,23.149.361-1,4x3,Turno C,Mecánico,No,2024-03-03 00:00:00,Presente
+TRB-105,Héctor López Muñoz,9.041.193-4,,Turno D,Electricista,No,2024-03-01 00:00:00,Presente
+TRB-069,Mario Muñoz Acuña,15.463.637-4,,Turno A,Técnico de Mantenimiento,No,2024-03-17 00:00:00,Presente
+TRB-039,Francisco García Vargas,14.428.696-0,,Turno A,Bodeguero,No,09-03-2024,Licencia Médica
+TRB-037,Cristian García García,,4x3,Turno B,Bodeguero,No,2024-03-22 00:00:00,presente
+TRB-033,Héctor Contreras Castro,,4x3,Turno C,Controlista,No,2024-03-24 00:00:00,Presente
+TRB-039,,14.428.696-0,4x3,Turno A,Bodeguero,No,2024-03-30 00:00:00,Presente
+TRB-031,,23.149.361-1,4x3,Turno C,Mecánico,No,2024-03-31 00:00:00,Permiso
+TRB-066,Diego Díaz Navarro,,4x3,Turno C,Operador de Planta,No,2024-03-30 00:00:00,Presente
+TRB-009,,20.134.457-3,,Turno B,Técnico de Mantenimiento,No,2024-03-12 00:00:00,Permiso
+TRB-106,Luis Valenzuela Morales,16.004.240-0,7x7,Turno D,Operador de Planta,No,2024-03-14 00:00:00,
+TRB-028,Esteban Martínez Martínez,,4x3,Turno A,Operador de Planta,No,2024-03-07 00:00:00,Presente
+TRB-014,Mario Núñez Navarro,15.369.062-6,,Turno A,Ayudante de Operaciones,No,2024-03-21 00:00:00,Presente
+TRB-037,Cristian García García,,4x3,Turno B,Bodeguero,No,2024-03-26 00:00:00,Ausente
+TRB-014,Mario Núñez Navarro,15.369.062-6,,Turno A,Ayudante de Operaciones,No,2024-03-07 00:00:00,Presente
+TRB-113,Alfredo Aguilar García,22.546.631-9,7x7,Turno E,Operador de Equipo,Sí,15-03-2024,
+TRB-081,,18.812.889-0,,Turno D,Mecánico,No,21-03-2024,Presente
+TRB-040,,14.156.836-1,4x3,Turno A,Controlista,No,2024-03-10 00:00:00,Presente
+TRB-055,Manuel Díaz López,,4x3,Turno C,Mecánico,No,2024-03-10 00:00:00,Presente
+TRB-038,Alfredo Salas Pérez,11.302.355-4,4x3,Turno B,Bodeguero,No,10/03/2024,
+TRB-099,Fernando Aguilar Rodríguez,21.047.882-5,,Turno D,Mecánico,No,2024-03-05 00:00:00,Ausente
+TRB-013,,16.214.491-K,4x3,Turno C,Mecánico,No,30-03-2024,Presente
+TRB-037,,22.463.677-6,4x3,Turno B,Bodeguero,No,2024-03-08 00:00:00,Presente
+TRB-011,Diego Pizarro Núñez,,4x3,Turno A,Operador de Planta,No,2024-03-08 00:00:00,Presente
+TRB-024,Sebastián Cáceres Soto,11.570.554-7,,Turno B,Operador de Equipo,Sí,2024-03-12 00:00:00,Presente
+TRB-023,Andrés Vega Cortés,13.306.893-7,,Turno C,Electricista,No,2024-03-15 00:00:00,Presente
+TRB-019,Eduardo Castro Herrera,,4x3,Turno C,Bodeguero,No,2024-03-18 00:00:00,Presente
+TRB-107,Andrés Cisternas Torres,23.603.951-K,7x7,Turno D,Ayudante de Operaciones,No,2024-03-08 00:00:00,
+TRB-069,Mario Muñoz Acuña,,4x3,Turno A,Técnico de Mantenimiento,No,2024-03-29 00:00:00,presente
+TRB-017,Víctor Salas Morales,16.887.903-2,,Turno A,Ayudante de Operaciones,No,18/03/2024,Presente
+TRB-024,Sebastián Cáceres Soto,11.570.554-7,4x3,Turno B,Operador de Equipo,Sí,10/03/2024,
+TRB-001,Luis Núñez Vargas,15.489.709-7,4x3,Turno C,Técnico de Mantenimiento,No,2024-03-23 00:00:00,
+TRB-018,Tomás Sandoval Flores,,4x3,Turno A,Operador de Planta,No,2024-03-07 00:00:00,Presente
+TRB-047,Pedro Pérez Contreras,,4x3,Turno C,Electricista,No,2024-03-03 00:00:00,Presente
+TRB-081,Ricardo Torres Cortés,18.812.889-0,,Turno D,Mecánico,No,2024-03-12 00:00:00,Presente
+TRB-048,Roberto Pérez Cáceres,10.688.094-8,,Turno C,Controlista,No,2024-03-01 00:00:00,Presente
+TRB-017,Víctor Salas Morales,,4x3,Turno A,Ayudante de Operaciones,No,2024-03-31 00:00:00,Presente
+TRB-065,Eduardo Muñoz Díaz,15.048.998-9,,Turno A,Mecánico,No,2024-03-27 00:00:00,Presente
+TRB-070,,15.480.073-5,4x3,Turno A,Ayudante de Operaciones,No,2024-03-19 00:00:00,Presente
+TRB-007,Felipe Pizarro García,,4x3,Turno B,Técnico de Mantenimiento,No,2024-03-11 00:00:00,Permiso
+TRB-114,,17.062.461-0,7x7,Turno E,Ayudante de Operaciones,No,2024-03-14 00:00:00,Presente
+TRB-099,Fernando Aguilar Rodríguez,,7x7,Turno D,Mecánico,No,2024-03-02 00:00:00,Presente
+TRB-034,Héctor López Muñoz,19.087.340-4,,Turno A,Operador de Equipo,Sí,2024-03-30 00:00:00,Presente
+TRB-080,,21.625.621-2,7x7,Turno E,Supervisor de Turno,No,03/03/2024,Presente 
+TRB-008,Sebastián Muñoz Salas,12.188.470-4,,Turno B,Operador de Camión,Sí,2024-03-15 00:00:00,Presente
+TRB-066,,21.635.762-0,4x3,Turno C,Operador de Planta,No,2024-03-09 00:00:00,Presente
+TRB-003,Felipe Torres Castro,24.956.909-7,,Turno A,Operador de Equipo,Sí,2024-03-02 00:00:00,Presente
+TRB-053,Daniel Carrasco López,8.312.574-8,,Turno A,Mecánico,No,2024-03-06 00:00:00,Presente
+TRB-111,Sergio Rojas Cisternas,9.378.051-5,7x7,Turno D,Mecánico,No,2024-03-14 00:00:00,
+TRB-109,Diego Contreras Rodríguez,,7x7,Turno D,Mecánico,No,09/03/2024,Presente
